@@ -3,8 +3,8 @@
     "scripts": {
         "start": "micro"
     },
-
     "dependencies": {
-        "micro": "^9.1.0"
+        "micro": "^9.1.0",
+        "yandex-dialogs-sdk": "^2.3.0"
     }
 }
