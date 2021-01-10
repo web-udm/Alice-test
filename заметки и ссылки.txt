@@ -2,7 +2,7 @@
 
 Текущий URL: https://alice-test.web-udm.vercel.app/
 Симулятор Станции: https://station.aimylogic.com/
-Библиотек и ресурсы: https://github.com/sameoldmadness/awesome-alice
+Библиотеки и ресурсы: https://github.com/sameoldmadness/awesome-alice
 
 
 Список проблем и задач:
